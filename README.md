@@ -1,7 +1,7 @@
-# Machine Learning Consultant with deep interest in NLP & ML Ops 
+# Enterprise AI expert with deep interest in NLP & ML Ops 
 #Data storytelling & data visualisation
 #ask me anything on ML AI Operations 
-#Open RAN & Telecom ML use cases
+#Telecom,healthcare, Insurance & Fintech
 #Data governance
 #How to build data science teams
 #Data science road map for organisations
